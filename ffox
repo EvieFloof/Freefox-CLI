@@ -1,0 +1,2 @@
+#!/bin/bash
+( cd /home/evie/Documents/FreeFox && uv run main.py $* )
