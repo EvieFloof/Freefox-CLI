@@ -43,18 +43,9 @@ uv sync
 uv tool install .
 
 # Run the cli
-./ffox session test
+ffox session test
 
 ```
-
----
-
-## 🎮 How to Play
-
-* 🕹️ Move your paddle — Use **mouse**
-* 💣 Keep the ball in play — Don’t let it fall off the bottom
-* 💥 Break all the bricks — Destroy everything to advance
-* 🏆 Beat your high score — Challenge yourself every round
 
 ---
 
@@ -161,22 +152,12 @@ uv tool install .
 - [ ] Virtual Machine API
 
 ---
-
-## 👥 Authors
-
-| Name                                               | Role                 |
-|----------------------------------------------------|----------------------|
-| [@NowEwo](https://github.com/NowEwo)               | Lead Developer       |
-| [@titwix](https://github.com/titwix)               | Developer            |
-| Eliot Hartel                                       | Developer            |
-| [@yamikocrystal](https://github.com/yamikocrystal) | The cute fox drawing |
-
 ---
 
 ## ❓ FAQ
 
 <details>
-<summary><b>What's the current state of the game ?</b></summary>
+<summary><b>What's the current state of `ffox` ?</b></summary>
 Currently in a very barebone phase! Basic things works but that's it.
 </details>
 
@@ -232,4 +213,3 @@ Whether you found a bug, have an idea, or just want to say hi:
 ⬆ [Back to Top](#readme)
 
 </div>
-
