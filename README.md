@@ -152,7 +152,6 @@ ffox session test
 - [ ] Virtual Machine API
 
 ---
----
 
 ## ❓ FAQ
 
