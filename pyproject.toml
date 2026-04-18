@@ -9,3 +9,6 @@ dependencies = [
     "colorama>=0.4.6",
     "requests>=2.33.1",
 ]
+
+[project.scripts]
+ffox = "ffox.cli:cli"
